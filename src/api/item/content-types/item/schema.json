@@ -31,6 +31,10 @@
     },
     "price": {
       "type": "decimal"
+    },
+    "phone_number": {
+      "type": "biginteger",
+      "required": true
     }
   }
 }
