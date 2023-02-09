@@ -35,6 +35,10 @@
     "phone_number": {
       "type": "biginteger",
       "required": true
+    },
+    "active": {
+      "type": "boolean",
+      "default": true
     }
   }
 }
